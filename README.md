@@ -6,6 +6,7 @@
 * [Technologies](#technologies)
 * [Launch](#Launch)
 * [Inspiration](#inspiration)
+* [Goals](#Goals)
 * [Contact](#contact)
 
 ## General info
@@ -49,6 +50,12 @@ for every run of the program you must include an inputFile.json.
 
 ## Inspiration
 As part of our System Programing course we received this project as an assignment
+##Goals
+* Programing an asynchronous project.
+* Managing concurrency issues.
+ *Deadlocks.
+ *Keeping the code as efficient as possible by making it as concurrent as possible without compromising the code correctness.
+ 
 
 ## Contact
-Created by [@Itamar Lederman](https://github.com/Itamarled/) & [@Shimonna394](https://github.com/Shimonna394)
+Created by [@Itamar Lederman](https://github.com/Itamarled/) & [@Shimi Nagar](https://github.com/Shimonna394)
