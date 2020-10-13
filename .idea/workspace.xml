@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c20dd2c-9fa4-4017-86c7-459300ad8d12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/messages/AgentsAvailableEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/messages/GadgetAvailableEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/messages/MissionReceivedEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/messages/ReleaseAgents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/messages/SendAgents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/messages/TerminateBroadcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/messages/TickBroadcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/subscribers/Intelligence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/json/JsonIntelligence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/json/JsonMission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/json/JsonServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/json/JsonSquad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bgu/spl/mics/json/ParseJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MI6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MI6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/bgu/spl/mics/FutureTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/bgu/spl/mics/InventoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/bgu/spl/mics/SquadTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5c20dd2c-9fa4-4017-86c7-459300ad8d12" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,14 +58,51 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1002696009">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/MI6Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
+            <state relative-caret-position="184">
               <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -118,8 +130,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="316" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="315" />
     <option name="width" value="1614" />
     <option name="height" value="876" />
   </component>
@@ -128,8 +140,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,17 +235,18 @@
       <workItem from="1602066263696" duration="1196000" />
       <workItem from="1602070596969" duration="1708000" />
       <workItem from="1602072409732" duration="582000" />
+      <workItem from="1602591268002" duration="994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3486000" />
+    <option name="totallyTimeSpent" value="4480000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="211" y="0" width="1076" height="584" extended-state="1" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31299213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2631579" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -250,7 +263,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50040483" side_tool="true" visible="true" weight="0.41019955" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50040483" side_tool="true" visible="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -270,17 +283,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/MI6Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="184">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/MI6Runner.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
