@@ -31,21 +31,21 @@ The inputFile.json located in the repository as an example input for the program
 for every run of the program you must include an inputFile.json.
 
 #### Input explanation
-###### Inventory:
+##### Inventory:
 > Contains the gadget available for the squed.
-###### Services:
+##### Services:
 > Contains the number of instances of each service in our program.
-###### Intelligence:
+##### Intelligence:
 > Part of the services, contains the missions and their details.
-###### Squad:
+##### Squad:
 > Contains our agents.
-###### Time:
+##### Time:
 > The program will start it's shuttdown proccess at the time given here.
 
 #### Output explanation
-###### diaryOutputFile
+##### diaryOutputFile
 > Contains a diary log of the missions that the squad executed in the program time frame.
-###### inventoryOutputFile:
+##### inventoryOutputFile:
 > Contains the gadgets which the squad didn't use during their missions.
 
 ## Inspiration
