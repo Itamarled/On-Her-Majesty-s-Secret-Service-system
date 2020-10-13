@@ -53,8 +53,8 @@ As part of our System Programing course we received this project as an assignmen
 ##Goals
 * Programing an asynchronous project.
 * Managing concurrency issues.
- * Deadlocks.
- * Keeping the code as efficient as possible by making it as concurrent as possible without compromising the code correctness.
+	* Deadlocks.
+	* Keeping the code as efficient as possible by making it as concurrent as possible without compromising the code correctness.
  
 
 ## Contact
