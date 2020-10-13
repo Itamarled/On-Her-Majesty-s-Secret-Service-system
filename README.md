@@ -20,7 +20,9 @@ Each message is delivered through the Message broker to the subscribers for each
 
 ## Launch
 Open cmd\terminal in the project directory and run the next commend:</br>
+###Compile
 > ~/bin/mvn compile </br>
+###Run
 > mvn exec:java -Dexec.mainClass="bgu.spl.mics.application.MI6Runner" -Dexec.args="inputFile.json inventoryOutputFile.json diaryOutputFile.json"
 
 ## Run Examples
