@@ -51,4 +51,4 @@ for every run of the program you must include an inputFile.json.
 As part of our System Programing course we received this project as an assignment
 
 ## Contact
-Created by [@Itamar Lederman] & [@Shimonna394] 
+Created by [@Itamar Lederman](https://github.com/Itamarled/) & [@Shimonna394](https://github.com/Shimonna394)
