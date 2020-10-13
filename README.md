@@ -19,9 +19,9 @@ Each message is delivered through the Message broker to the subscribers for each
 * Maven - version 3.6.3
 
 ## Launch
-Open cmd\terminal in the project directory and run the next commend:
-~/bin/mvn compile
-mvn exec:java -Dexec.mainClass="bgu.spl.mics.application.MI6Runner" -Dexec.args="inputFile.json inventoryOutputFile.json diaryOutputFile.json"
+Open cmd\terminal in the project directory and run the next commend:</br>
+> ~/bin/mvn compile </br>
+> mvn exec:java -Dexec.mainClass="bgu.spl.mics.application.MI6Runner" -Dexec.args="inputFile.json inventoryOutputFile.json diaryOutputFile.json"
 
 ## Run Examples
 Show examples of usage:
