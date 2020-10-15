@@ -36,6 +36,7 @@ public class Squad {
 
 	/**
 	 * Releases agents.
+	 * @param serials  Contains the serial numbers of the agents we need to release.
 	 */
 	public void releaseAgents(List<String> serials){
 	    if(serials.contains("release all")){

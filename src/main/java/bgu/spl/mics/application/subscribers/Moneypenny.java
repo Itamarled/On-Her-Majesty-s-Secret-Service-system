@@ -19,8 +19,8 @@ import java.util.List;
  * You can add private fields and public methods to this class.
  * You MAY change constructor signatures and even add new public constructors.
  * Subscribes to AgentsAvailableEvent,SendAgentsEvent and to ReleaseAgentsEvent
- * @param moneyPenny hold mp id
- * @param onlyPenny tells as if there is only 1 mp
+ * variable moneyPenny hold mp id
+ * variable onlyPenny tells as if there is only 1 mp
  */
 public class Moneypenny extends Subscriber {
 private int moneyPenny;

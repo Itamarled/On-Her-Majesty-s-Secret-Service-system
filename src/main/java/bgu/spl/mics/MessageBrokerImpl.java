@@ -13,6 +13,7 @@ import java.util.concurrent.*;
  * @perm missions holds the queue for each subscriber
  * @perm broadcastTypes holds all the subscribers for a specific broadcast
  * @perm eventTypes holds all the subscribers for a specific event
+ * @prem hashEvent holds the Future for each Event
  */
 public class MessageBrokerImpl implements MessageBroker {
 	private ConcurrentHashMap<Subscriber, BlockingQueue<Message>> missions = new ConcurrentHashMap<Subscriber, BlockingQueue<Message>>();
@@ -21,7 +22,6 @@ public class MessageBrokerImpl implements MessageBroker {
 	private ConcurrentHashMap<Event,Future> hashEvent= new ConcurrentHashMap<>();
 	private Object lock=new Object();
 	private Object lock2=new Object();
-	private Object lock3=new Object();
 	private MessageBrokerImpl(){
 		broadcastTypes.put(TickBroadcast.class,new LinkedBlockingQueue<Subscriber>());
 		broadcastTypes.put(TerminateBroadcast.class,new LinkedBlockingQueue<Subscriber>());
@@ -45,7 +45,6 @@ public class MessageBrokerImpl implements MessageBroker {
 	@Override
 	public <T> void subscribeEvent(Class<? extends Event<T>> type, Subscriber m) {
 			eventTypes.get(type).add(m);
-
 	}
 
 	@Override
