@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Launch](#Launch)
-* [Run Examples](#Run Examples)
+* [Run Examples](#Run-Examples)
 * [Inspiration](#inspiration)
 * [Goals](#Goals)
 * [Contact](#contact)
